@@ -1,0 +1,1 @@
+The arcane spirit bells at [[Bellweather Crematorium]] ring whenever someone dies in the city. They may only be heard by those near the site of the death, and by the [[Spirit Wardens]], whose arcane masks are attuned to the bells. A deathseeker crow leaves the belfry and flies to the district where the dead may be found, circling ever closer to the corpse every minute.

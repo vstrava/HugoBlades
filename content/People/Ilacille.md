@@ -1,0 +1,1 @@
+holds worship at the ruins of a temple to a [[Forgotten Gods|Forgotten God]] in [[Coalridge]]

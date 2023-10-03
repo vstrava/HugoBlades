@@ -1,0 +1,85 @@
+# Faith
+- [[Mother Narya]]
+	- [[The Weeping Lady|House of the Weeping Lady]], [[Six Towers]]
+- [[Ilacille]]  
+	- the ruins of a Temple to [[Forgotten Gods]], [[Coalridge]]
+- [[Sister Nelisanne]] 
+	- [[Church of Ecstasy|Church of Ecstasy of the Flesh]], [[Brightstone]]
+- [[Lord Penderyn]] 
+	- the Archive of Echoes, [[Charterhall]]
+# Gambling
+- [[Spogg]] 
+	- dice game, [[Crow's Foot]]
+- [[Grist]]  
+	- boxing at [[The Docks]]
+- ***[[Helene]]***
+	- [[Silver Stag Casino]], [[Silkshore]]
+	- [[Lorick]]'s vice purveyor
+- [[Master Vreen]]
+	- hound racing, [[Nightmarket]]
+- [[Lady Dusk ]]
+	- the Dusk Manor Club, [[Whitecrown]]
+- [[Sergeant Velk ]]
+	- the fighting pits, [[Dunslough]]
+# Luxury & Pleasure
+- [[Singer]] 
+	- bath house, [[Crow's Foot]]
+- [[Harvale Brogan]]  
+	- the Centuralia Club, [[Brightstone]]
+- [[Traven]]
+	- Traven’s Smoke Shop, [[Coalridge]]
+- [[Loric Dundridge]]
+	- [[Dunridge & Sons]] fine fabrics and tailoring, [[Nightmarket]]
+- [[Chef Roselle]]
+	- [[The Golden Plum]] restaurant, [[Six Towers]]
+- ***[[Maestro Helleren ]]*** 
+	- [[Spiregarden Theatre]], Whitecrown
+	- [[Kay Helles]]'s vice purveyor
+- ***[[Amira]]***
+	- bath house in [[Silkshore]]
+	- [[Ude]]'s vice purveyor
+# Obligation
+- Family members (heritage) or former co-workers (background)
+- [[Hutton]]
+	- [[Skovlander Refugees|Skovlander Refugees/Revolutionaries]], [[Charhollow]] & [[Coalridge]]
+	- leader of [[The Grinders]]
+- [[Circle of Flame]]
+- ***[[Ulf Ironborn]]***
+	- [[Skovlander Refugees]], [[Coalridge]]
+	- [[Kraiphas Krane]]'s vice purveyor
+# Pleasure & Stupor
+- [[Mardin Gull ]]
+	- [[The Leaky Bucket]], tavern, [[Crow's Foot]]
+- [[Pux Bolin]]
+	- [[The Harping Monkey]], tavern, [[Nightmarket]]
+- [[Helene]]
+	- [[Silver Stag Casino]], [[Silkshore]]
+- [[Lady Freyla]]
+	- [[The Emperor’s Cask]], bar, [[Whitecrown]]
+- [[Avrick]]
+	- powder dealer, [[Barrowcleft]]
+- [[Rolan Volaris]]
+	- [[The Veil]], social club, [[Nightmarket]]
+- [[Madame Tesslyn]] 
+	- [[Red Lamp]], brothel, [[Silkshore]]
+- [[Traven]]
+	- Traven’s Smoke Shop, [[Coalridge]]
+- [[Eldrin Prichard ]]
+	- [[The Silver Swan]], pleasure barge, [[Brightstone]] canals
+- [[Jewel]], [[Bird]], and [[Shine]], 
+	- Streetwalkers, Catcrawl Alley, [[The Docks]]
+# Weird
+- ***The hooded proprietor of a half-flooded grotto tavern near [[The Docks]]***
+	- Strange passageways lead to stranger chambers beyond 
+	- [[Arden Booker]]'s vice purveyor - he comes here to fight ghosts
+- [[Father Yoren ]]
+	- [[The Weeping Lady|House of the Weeping Lady]], [[Six Towers]]
+- ***“[[Ssalia]]”*** 
+	- a spirit of some sort, perhaps a ghost of [[the Reconciled]], perhaps something else, which moves from body to body at their whim
+	- [[Tier Von Skovitterbottom]]'s vice purveyor
+- [[Sister Thorn]]
+	- [[Deathlands Scavengers]] gang, [[Gaddoc Station]] & beyond
+- [[Ojak]]  
+	- [[Tycheros|Tycherosi]] rooftop market vendor, [[Silkshore]]
+- [[Aranna the Blessed]]  
+	- cultist of a [[Forgotten Gods|Forgotten God]], barge moored in [[Nightmarket]]

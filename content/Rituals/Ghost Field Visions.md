@@ -1,0 +1,1 @@
+*when invoked this ritual will inflict visions from the Ghost Field on the intended victim*

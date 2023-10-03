@@ -1,0 +1,82 @@
+---
+tags:
+  - GM
+---
+# Underworld
+| **Faction**            | **Tier** | **Status** |
+| ---------------------- | -------- | ---------- |
+| [[The Unseen]]         | 4/S      | 0          |
+| [[The Hive]]           | 4/S      | 0          |
+| [[Circle of Flame]]    | 3/S      | 0          |
+| [[Silver Nails]]       | 3/S      | 0          |
+| [[Lord Scurlock]]      | 3/S      | 0          |
+| [[The Crows]]          | 2/W      | 0          |
+| [[The Lampblacks]]     | 2/W      | 0          |
+| [[The Red Sashes]]     | 2/W      | 0          |
+| [[The Dimmer Sisters]] | 2/S      | 0          |
+| [[The Grinders]]       | 2/W      | +1         |
+| [[The Billhooks]]      | 2/W      | 0          |
+| [[The Wraiths]]        | 2/W      | 0          |
+| [[The Grey Cloaks]]    | 2/S      | 0          |
+| [[The Breakers]]       | 2/S      | -1         |
+| [[Ulf Ironborn]]       | 1/S      | +1         |
+| [[The Fog Hounds]]     | 1/W      | 0          |
+| [[The Lost]]           | 1/W      | 0          |
+# Institutions
+| **Factions**                 | **Tier** | **Status** |
+| ---------------------------- | -------- | ---------- |
+| [[Imperial Military]]        | 6/S      | 0          |
+| [[City Council]]             | 5/S      | 0          |
+| [[Ministry of Preservation]] | 5/S      | 0          |
+| [[Leviathan Hunters]]        | 5/S      | 0          |
+| [[Ironhook Prison]]          | 4/S      | 0          |
+| [[Sparkwrights]]             | 4/S      | 0          |
+| [[Bluecoats]]                | 3/S      | -1         |
+| [[Inspectors]]               | 3/S      | 0          |
+| [[Iruvian Consulate]]        | 3/S      | 0          |
+| [[Skovlan Consulate]]        | 3/W      | 0          |
+| [[The Brigade]]              | 2/S      | 0          |
+| [[Severosi Consulate]]       | 1/S      | 0          |
+| [[Dagger Isles Consulate]]   | 1/S      | 0           |
+# Labour & Trade
+| **Faction**         | **Tier** | **Status** |
+| ------------------- | -------- | ---------- |
+| [[The  Foundation]] | 4/S      | 0          |
+| [[Dockers]]         | 3/S      | 0          |
+| [[Gondoliers]]      | 3/S      | 0          |
+| [[Sailors]]         | 3/W      | 0          |
+| [[Labourers]]       | 3/W      | 0          |
+| [[Factories]]       | 3/S      | 0          |
+| [[Cabbies]]         | 2/W      | 0          |
+| [[Cyphers]]         | 2/S      | 0          |
+| [[Ink Rakes]]       | 2/W      | 0          |
+| [[Rail Jacks]]      | 2/W      | 0          |
+| [[Servants]]        | 2/W      | 0          |
+| [[Union]]           | 0/S      | 0          |
+|                     |          |            |
+# Fringe
+| **Faction**               | **Tier** | **Status** |
+| ------------------------- | -------- | ---------- |
+| [[Church of Ecstasy]]     | 4/S      | 0          |
+| [[The Horde]]             | 3/S      | 0          |
+| [[Path of Echoes]]        | 3/S      | 0          |
+| [[Forgotten Gods]]        | 3/W      | 0          |
+| [[The Reconciled]]        | 3/S      | 0          |
+| [[The Weeping Lady]]      | 2/S      | 0          |
+| [[Deathlands Scavengers]] | 2/W      | 0           |
+# Citizenry
+| **Faction**              | **Tier** | **Status** |
+| ------------------------ | -------- | ---------- |
+| [[Whitecrown Citizens]]  | 5/S      | 0          |
+| [[Brightstone Citizens]] | 4/S      | 0          |
+| [[Charterhall Citizens]] | 4/S      | 0          |
+| [[Six Towers Citizens]]  | 3/W      | 0          |
+| [[Skovlander Refugees]]  | 3/W      | 0          |
+| [[Silkshore Citizens]]   | 2/S      | 0          |
+| [[Nightmarket Citizens]] | 2/S      | 0          |
+| [[Crow's Foot Citizens]] | 2/S      | 0          |
+| [[Docks Citizens]]       | 2/S      | 0          |
+| [[Barrowcleft Citizens]] | 2/S      | 0          |
+| [[Coalridge Citizens]]   | 2/W      | 0          |
+| [[Charhollow Citizens]]  | 1/S      | 0          |
+| [[Dunslough Citizens]]   | 1/W      | 0          |

@@ -1,0 +1,6 @@
+---
+tags:
+  - NPC
+  - Lore
+  - Institution
+---
